@@ -112,4 +112,3 @@ Encadré par : Pr.Mohammed Lechgar.
 Date : Le 06/12/2026.
 
 Filière : 2éme année master Didactique des sciences et ingénierie éducative.
->>>>>>> 09a977174ba6b0743a9882ef1d32a0ad36a52fff
