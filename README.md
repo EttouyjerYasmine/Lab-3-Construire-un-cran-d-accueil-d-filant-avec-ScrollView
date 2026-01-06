@@ -29,28 +29,27 @@ L’écran d’accueil doit être modifié pour :
 contenir un composant ScrollView
 
 
-afficher un titre
+--afficher un titre
 
-afficher un texte long
+--afficher un texte long
 
-permettre à l’utilisateur de défiler verticalement
-
-<img width="943" height="944" alt="Lab3 2" src="https://github.com/user-attachments/assets/853cb441-d5ea-46c4-93ed-6c5236ffc941" />
-
+--permettre à l’utilisateur de défiler verticalement
 
 <img width="1919" height="942" alt="Lab3" src="https://github.com/user-attachments/assets/cdaeaf49-b078-473d-8e45-59ed712e2a29" />
+
+<img width="943" height="944" alt="Lab3 2" src="https://github.com/user-attachments/assets/853cb441-d5ea-46c4-93ed-6c5236ffc941" />
 
 ### Résultats du TP :
 
 À la fin du TP :
 
-l’écran d’accueil est scrollable
+------l’écran d’accueil est scrollable
 
-le contenu long peut être parcouru verticalement
+------le contenu long peut être parcouru verticalement
 
-l’interface respecte un thème sombre
+-------l’interface respecte un thème sombre
 
-la barre de défilement est blanche sur iOS
+--------la barre de défilement est blanche sur iOS
 
 ## Auteurs 
 
